@@ -1,3 +1,3 @@
 # tajemne-cislo
 
-FCodeWars - kata1
+FCodeWars - kata2
